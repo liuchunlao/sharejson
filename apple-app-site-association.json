@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "1398688949.com.guotoujinfu.JFPos",
-                "paths": ["*"]
+                "paths": ["/jmdpro/*"]
             }
         ]
     }
