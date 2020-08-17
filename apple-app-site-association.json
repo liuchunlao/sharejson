@@ -1,0 +1,11 @@
+{
+"applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "1398688949.com.abc",
+                "paths": ["/jmdpro/","*"]
+            }
+        ]
+    }
+}
