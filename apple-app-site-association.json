@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "1398688949.com.abc",
-                "paths": ["/jmdpro/","*"]
+                "appID": "1398688949.com.guotoujinfu.JFPos",
+                "paths": ["*"]
             }
         ]
     }
